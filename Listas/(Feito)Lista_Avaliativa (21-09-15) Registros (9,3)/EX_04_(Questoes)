@@ -1,0 +1,25 @@
+Das seguintes afirmações, marque as opções verdadeiras.
+
+
+a.
+O nome da tag (tipo) de um registro (structs) é opcional. (Verdadeiro)
+
+
+b.
+Os campos de diferentes registros (structs) devem ter nomes exclusivos. (Falso)
+
+
+c.
+Os registros podem ser atribuídos diretamente. (Verdadeiro)
+
+
+d.
+Os registros (structs) podem conter apenas um tipo de dado. (Falso)
+
+
+e.
+Os registros não podem ser comparados diretamente. (Falso)
+
+
+f.
+Os registros (structs) são sempre passadas a funções por meio de chamadas por referência. (Verdadeiro)

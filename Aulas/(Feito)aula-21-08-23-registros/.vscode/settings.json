@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "cmath": "cpp"
+    },
+    "files.exclude": {
+        "**_MACOSX": true,
+        "**.vscode": true
+    }
+}
