@@ -2,6 +2,7 @@
 #include"teste.h"
 
 int main(){
-    int x = 0;
-    
+    int s = 0, t[MAX], x;
+    printf("%d", x = teste_1(s, t));
+    return 0;
 }
