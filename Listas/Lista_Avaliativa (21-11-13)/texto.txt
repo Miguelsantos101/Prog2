@@ -1,4 +1,0 @@
-3
-Miguel 10
-Joao 5
-Ana 8

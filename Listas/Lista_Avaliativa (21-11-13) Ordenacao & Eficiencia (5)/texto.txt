@@ -1,0 +1,9 @@
+4
+cardonha 3
+naofoidestavez 4
+marcel 5
+eupassei 10
+
+
+5
+3 2 5 4 1
