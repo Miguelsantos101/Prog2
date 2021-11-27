@@ -36,8 +36,6 @@ void binario(celula *lst){
         printf("%d", bin[alpha]);
         }
     }
-    
-
 }
 
 int main(){
